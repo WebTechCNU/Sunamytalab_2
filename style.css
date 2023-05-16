@@ -1,0 +1,105 @@
+
+.card-img1 {
+    border: 2px solid #55c5e9; 
+    padding: 15px; 
+    background: #666; 
+    margin-right: 10px; 
+    margin-bottom: 10px; 
+    
+ }
+
+.img-thumbnail{
+    width: 8cm;
+    height:8cm;
+
+}
+.container1{ 
+    position: absolute; 
+    font-size: 5cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(238, 229, 205);
+    padding-left:cm;
+    padding-bottom:2cm;
+
+ }
+ 
+.r{
+
+    border-radius: 12px;
+    background-color: #cfb694;
+}
+ .a{
+   color: black;
+   font-size: 170%;
+}
+.description{
+    font-size: 25px;
+   
+}
+.const{
+    font-weight:700;
+    
+}
+.div-row{
+    background-color: #e00808;
+    width: 200px;
+    height: 100px;
+border-radius: 20px;
+padding: 20px;
+}
+
+ .filters{
+    background-color: rgb(207, 200, 177);
+ }
+ .modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 80%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0, 0, 0, 0.585); 
+  }
+  
+  .modal1 {
+    background-color: #9b805b;
+    margin: 5% auto; 
+    padding: 20px;
+    border: 1px solid #e00808;
+    width: 60% !important; 
+    height: 60%;
+  }
+  .btn-close {
+    color: #6b5b5b;
+   float:right ;
+   font-size: 28px;
+   font-weight: bold; 
+   opacity: 0.7;
+  }
+   .btn-close:hower {
+    opacity: 1;
+  } 
+h2{
+    font-size: 50px;
+    
+
+}
+.book{
+    font-size: 50px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     left:2px;
+     text-align: center;
+     top:0px;
+}
+h3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+ 
